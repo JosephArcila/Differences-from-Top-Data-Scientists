@@ -8,10 +8,11 @@ This project aims at exploring if there are some differences between the tools u
 For this project, I leverage data from the Stack Overflow and Kaggle 2021 surveys answered by thousands of programmers.
 
 ## Files
+Untitled.ipynb - The notebook contains the exploratory analysis and the explanatory visualizations with the functions used to create them.  
+
 datasets - This file contains the datasets of the 2021 Kaggle and Stack Overflow surveys.  
 - kaggle-survey-2021  
-- stackover_anudevsurv_2021
-Untitled.ipynb - The notebook contains the exploratory analysis and the explanatory visualizations with the functions used to create them.
+- stackover_anudevsurv_2021  
 
 ## Technical Details
 What were your results? What did you do to improve them? What methods did you try? What worked? What didn't work?
