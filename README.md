@@ -5,7 +5,7 @@
 
 ## Motivation
 This project aims at exploring if there are some differences between the tools used by the top 20% highest-paid data scientists from the bottom 50%. As well as the differences, if any, in how they approach learning.  
-[Read the article here >>](https://medium.com/@josepharcila/316081677799?source=friends_link&sk=4f47dd76d6fd9f8792b429b49ff393b2)  
+[Read the article here >>](https://medium.com/@josepharcila/can-this-make-you-a-higher-paid-data-scientist-316081677799)  
 
 For this project, I leverage data from the Stack Overflow and Kaggle 2021 surveys answered by thousands of programmers.
 
