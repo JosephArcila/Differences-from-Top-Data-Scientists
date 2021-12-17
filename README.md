@@ -1,4 +1,5 @@
 # Data-Science-Blog-Post
+The tools you use, and the way you approach learning can have a significant correlation with how much you get paid for your work as a data scientist.
 
 ## Instalations needed to run the code  
 
