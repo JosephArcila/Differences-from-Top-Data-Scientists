@@ -32,4 +32,4 @@ The tools you use, and the way you approach learning can have a significant corr
 <img src="https://user-images.githubusercontent.com/39535338/145210780-f7aa1689-07e3-4720-aec2-d1e1be1f03e7.png" alt="drawing" width="400"/>
 
 ## Akcnowledgments
-I would like to thank all Udacians for motivating me and guiding me through my journey as a data scientist.
+I would like to thank all Udacians for motivating me and guiding my data science journey.
