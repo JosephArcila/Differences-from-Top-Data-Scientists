@@ -23,9 +23,7 @@ datasets - This file contains the data sets from the 2021 Kaggle and Stack Overf
 - stackover_anudevsurv_2021  
 
 ## Summary of the analysis results   
-I collected data from the Stack Overflow and Kaggle 2021 surveys answered by thousands of data scientists. I cleaned up the data to consider only full-time employed data scientists and ML engineers who openly answer questions of interest. Then I created two subsets, the first containing wages equal to or less than the median and the other containing wages above the 0.8 quantiles. Finally, I explored various correlations, contrasting both subsets. In the end, I drew the most interesting findings in an explanatory way.
-
-The tools you use, and the way you approach learning can have a significant correlation with how much you get paid for your work as a data scientist.
+Among the most interesting findings regarding the differences between lower-paid and higher-paid data scientists where the use of Gradient Boosting Machines, SQL, and the Cloud Platform they have worked with
 
 <img src="https://user-images.githubusercontent.com/39535338/145210768-cbb90d1d-9f58-453c-949c-bccbe40819ca.png" alt="drawing" width="400"/>  
 
